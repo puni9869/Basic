@@ -1,5 +1,5 @@
 from operations import Number
-from basic.parser import RTResult
+from parser import RTResult
 from tokens import *
 
 

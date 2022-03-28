@@ -1,3 +1,3 @@
-from basic.basic import run
+from basic import run
 
 print(run("stdin", "1/2"))

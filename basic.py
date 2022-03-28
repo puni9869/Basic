@@ -1,7 +1,7 @@
 # IMPORTS
 from context import Context
 from lexer import Lexer
-from basic.parser import Parser
+from parser import Parser
 from interpreter import Interpreter
 
 

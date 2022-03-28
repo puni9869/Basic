@@ -1,4 +1,4 @@
-from basic.parser import Position
+from parser import Position
 from tokens import *
 from errors import *
 
